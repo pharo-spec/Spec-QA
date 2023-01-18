@@ -6,5 +6,5 @@
 - [QA4 - how to change the color (or background color) of a presenter](qa004.md)
 - [QA5 - use ctrl-S (or cmd+s) to save text entry](qa005.md)
 - [QA6 - How to edit the contents of a table in place](qa006.md)
-- 
+- [QA7 - How to add dinamically a layout to another layout](qa007.md)
 - [QA8 - How to add dynamic context menus to a presenter](qa008.md)
